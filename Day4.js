@@ -150,3 +150,4 @@ function checkPassports(input) {
 
 checkPassports(validInput)
 console.log("RESULT: ", result)
+console.log(input)
